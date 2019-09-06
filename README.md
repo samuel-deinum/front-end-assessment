@@ -1,3 +1,12 @@
+This app was created using the create-react-app command in the cmd.
+
+To run the app, add these files to a new create-react-app project to make sure they are
+with the correct node_modules. Then use the command npm start.
+
+This project uses axios to get the data. Axios will need to be installed for it to work.
+
+------------------------------------------DEFAULT READ ME BELLOW--------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

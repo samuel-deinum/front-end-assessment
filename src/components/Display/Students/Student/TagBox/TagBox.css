@@ -1,0 +1,9 @@
+.TagBox {
+  padding: 10px;
+  background: gray;
+  color: white;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  display: inline-block;
+  border-radius: 2px;
+}

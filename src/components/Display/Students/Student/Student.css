@@ -1,0 +1,56 @@
+.Student {
+  width: 100%;
+  display: inline-block;
+  border-bottom: 3px solid lightgray;
+}
+
+.cl {
+  position: relative;
+  width: 15%;
+  display: inline-block;
+  background: white;
+  vertical-align: top;
+}
+
+.cm {
+  position: relative;
+  width: 80%;
+  display: inline-block;
+  background: white;
+  vertical-align: top;
+}
+
+.cm h2 {
+  margin-top: 0;
+  margin-left: 2%;
+}
+
+.cm p {
+  margin-left: 10%;
+}
+
+.cr {
+  position: relative;
+  right: 0;
+  width: 5%;
+  display: inline-block;
+  background: white;
+  vertical-align: top;
+}
+
+.simg {
+  border: 3px solid #eee;
+  border-radius: 50%;
+  width: 70%;
+  margin: 10%;
+  margin-top: 20%;
+}
+
+.sbut {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.sbut:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,37 @@
+.TagSearch {
+  -webkit-appearance: none;
+  box-shadow: none;
+  border: none;
+  border-bottom: 1px solid lightgray;
+  height: 6%;
+  width: 40%;
+  margin-left: 10%;
+  margin-bottom: 3%;
+}
+
+.TagSearch:focus,
+textarea {
+  outline: none !important;
+}
+
+.TagSearchBut {
+  -webkit-appearance: none;
+}
+
+.TagSearchBut {
+  background-color: lightgray;
+  border-radius: 10px;
+  border: 1px solid black;
+  display: inline-block;
+  cursor: pointer;
+  color: black;
+  padding: 5px 15px;
+  margin-left: 2px;
+}
+.TagSearchBut:hover {
+  background-color: gray;
+}
+.TagSearchBut:active {
+  position: relative;
+  top: 1px;
+}
